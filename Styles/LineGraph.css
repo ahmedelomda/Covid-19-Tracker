@@ -1,0 +1,10 @@
+.lineGraph {
+    margin-top: 15px;
+   
+}
+
+.lineGraph canvas {
+    height: 215px;
+    display: flex !important;
+    
+}
